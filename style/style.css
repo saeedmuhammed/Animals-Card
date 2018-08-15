@@ -37,7 +37,7 @@ body {
     display: inline-table;
     
     
-    margin: 20px;
+    margin: 19px;
 }
 
 .imcard{
@@ -110,4 +110,13 @@ footer{
     font-family: Alex Brush;
     font-size: 20px;
     font-style: italic;
+}
+h1{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 755px;
+    margin: 0px;
+    padding-left: 200px;
+    color: white;
+    font-size: 50px;
 }
